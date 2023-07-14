@@ -1,0 +1,18 @@
+-UI
+text box at the top (at press enter) add the box in bottom simple ui 
+
+functionilities
+1. Adding a todo item
+2. Deleting a todo item
+3. Comleted the task 
+4. Total items count
+5. what will be the dsa
+
+Task will be an array of Objects 
+task item - {id, txt, done{true or false}}
+functions: 
+    -add todo
+    -delete todo
+    -show notification 
+    -render list (into a ui)
+    
